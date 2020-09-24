@@ -4,7 +4,7 @@
 Official Entry of Team Bot War, from SRM Institute of Science and Technology, Kattankulathur, to Hacksprint v2.0. <br>
 ![Collaborators](https://img.shields.io/badge/collaborators-4-orange)
 ![Status](https://img.shields.io/badge/status-working-red)
-![Issues](https://img.shields.io/badge/issues-1-green)
+![Issues](https://img.shields.io/badge/issues-0-green)
 
 
 ![Logo](https://github.com/shlokanjali/trial/blob/master/assets/logo1.jpeg)
