@@ -1,0 +1,41 @@
+.darkhome {
+    background-color: black;
+}
+.row {
+    width: 30%;
+    height: 2% !important;
+}
+span {
+    color: white;
+}
+p {
+    color: white;
+}
+.card {
+    background-color: black;
+}
+.card-title {
+    color: white !important;
+    padding: 0% 0% 0% 40% !important;
+    position: static;
+    top: 100% !important;
+}
+.darkhome {
+    display: flex;
+    flex-wrap: wrap;
+}
+.col {
+    width: 100% !important;
+}
+.card-image {
+    display: flex !important;
+    flex-direction: column !important;
+    margin-bottom: 25% !important;
+}
+.darkhome a {
+    width: 40% !important;
+    height: 5vh !important;
+    padding-top: 1% !important;
+    margin: 1% 30% !important;
+    background-color: #65c9ff !important;
+}

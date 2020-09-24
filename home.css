@@ -1,0 +1,38 @@
+.row {
+    width: 30%;
+    height: 2% !important;
+}
+.card-title {
+    color: black;
+    padding: 0% 0% 0% 0% !important;
+    position: static;
+    top: 100% !important;
+}
+.home {
+    display: flex;
+    flex-wrap: wrap;
+}
+.home p {
+    color: black !important;
+}
+.home span {
+    color: black !important;
+}
+.col {
+    width: 100% !important;
+}
+.card-image {
+    display: flex !important;
+    flex-direction: column !important;
+    margin-bottom: 25% !important;
+}
+.row a {
+    /* width: 50% !important;
+    height: 5vh !important;
+    padding-top: 1% !important;
+    margin: 1% auto !important; */
+    background-color: #65c9ff !important;
+}
+.home .card {
+    background-color: white;
+}
