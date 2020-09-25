@@ -1,0 +1,13 @@
+.main {
+    display: flex;
+    flex-wrap: wrap;
+}
+.space {
+    box-sizing: border-box;
+    margin: 1% 2%;
+}
+.playlist {
+    background: #fc466b;
+    background: -webkit-linear-gradient(to right, #fc466b, #3f5efb);
+    background: linear-gradient(to right, #fc466b, #3f5efb);
+}

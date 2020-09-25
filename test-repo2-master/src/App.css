@@ -1,0 +1,19 @@
+.header {
+    background-color: #3a4c5a;
+    height: 8vh;
+    position: sticky;
+}
+.toggle {
+    float: right;
+    margin: 1% 1%;
+}
+.app {
+    display: flex;
+    flex-direction: column;
+}
+li {
+    background-color: #3a4c5a !important;
+}
+.page-footer {
+    background-color: #3a4c5a !important;
+}
