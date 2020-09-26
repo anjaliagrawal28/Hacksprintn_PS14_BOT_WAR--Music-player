@@ -7,7 +7,7 @@ Official Entry of Team Bot War, from SRM Institute of Science and Technology, Ka
 ![Issues](https://img.shields.io/badge/issues-0-green)
 
 
-![Logo](repository-assets/logo1.jpeg)
+![Logo](assets/logo1.jpeg)
 
 ## Track and Problem Statement 🚧
 
