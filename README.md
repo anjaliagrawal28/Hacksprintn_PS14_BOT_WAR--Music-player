@@ -6,8 +6,8 @@ Official Entry of Team Bot War, from SRM Institute of Science and Technology, Ka
 ![Status](https://img.shields.io/badge/status-working-red)
 ![Issues](https://img.shields.io/badge/issues-0-green)
 
-PROJECT DESCRIPTION(VIDEO):https://drive.google.com/file/d/1wFwB4cCroSAV6sZ31hBGV5oJNx5safck/view?usp=sharing
-PROJECT WEBSITE:https://5f6ed07a278576bc11d08409--dreamy-haibt-642a2f.netlify.app/
+PROJECT DESCRIPTION(VIDEO):https://drive.google.com/file/d/1wFwB4cCroSAV6sZ31hBGV5oJNx5safck/view?usp=sharing            
+         PROJECT WEBSITE:https://5f6ed07a278576bc11d08409--dreamy-haibt-642a2f.netlify.app/
 
 ![Logo](assets/logo1.jpeg)
 
