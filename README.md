@@ -1,4 +1,4 @@
-# Hacksprintn_PS14_BOT_WAR
+# Hacksprintn_PS14_BOT_WAR - Music Streaming WEB APPLICATION - Amazing APP
 ## Team Bot War
 
 Official Entry of Team Bot War, from SRM Institute of Science and Technology, Kattankulathur, to Hacksprint v2.0. <br>
